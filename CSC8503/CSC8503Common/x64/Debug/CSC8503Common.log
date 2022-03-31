@@ -1,0 +1,20 @@
+﻿  AxisConstraint.cpp
+  CollisionDetection.cpp
+  Debug.cpp
+  GameObject.cpp
+  GameWorld.cpp
+  NavigationGrid.cpp
+  NavigationMesh.cpp
+  PhysicsObject.cpp
+  PhysicsSystem.cpp
+D:\worksapce\Marbles-Game\CSC8503\CSC8503Common\PhysicsSystem.cpp(311,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+  PositionConstraint.cpp
+  PushdownMachine.cpp
+  PushdownState.cpp
+  QuadTree.cpp
+  RenderObject.cpp
+  StateMachine.cpp
+  StateTransition.cpp
+  Transform.cpp
+  Generating Code...
+  CSC8503Common.vcxproj -> D:\worksapce\Marbles-Game\x64\Debug\CSC8503Common.lib
